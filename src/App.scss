@@ -1,0 +1,182 @@
+@font-face {
+  font-family: "DiscoverSans";
+  font-style: italic;
+  src: url(fonts/Discover_Sans_WOFF/DiscoverSans-Italic.woff) format("woff"),
+    url(fonts/Discover_Sans_WOFF2/DiscoverSans-Italic.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "DiscoverSans";
+  font-weight: 100;
+  font-weight: 200;
+  font-weight: 300;
+  font-style: normal;
+  src: url(fonts/Discover_Sans_WOFF/DiscoverSans-Light.woff) format("woff"),
+    url(fonts/Discover_Sans_WOFF2/DiscoverSans-Light.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "DiscoverSans";
+  font-weight: 100;
+  font-weight: 200;
+  font-weight: 300;
+  font-style: italic;
+  src: url(fonts/Discover_Sans_WOFF/DiscoverSans-LightItalic.woff)
+      format("woff"),
+    url(fonts/Discover_Sans_WOFF2/DiscoverSans-LightItalic.woff2)
+      format("woff2");
+}
+
+@font-face {
+  font-family: "DiscoverSans";
+  font-weight: 400;
+  font-style: normal;
+  src: url(fonts/Discover_Sans_WOFF/DiscoverSans-Medium.woff) format("woff"),
+    url(fonts/Discover_Sans_WOFF2/DiscoverSans-Medium.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "DiscoverSans";
+  font-weight: 400;
+  font-style: italic;
+  src: url(fonts/Discover_Sans_WOFF/DiscoverSans-MediumItalic.woff)
+      format("woff"),
+    url(fonts/Discover_Sans_WOFF2/DiscoverSans-MediumItalic.woff2)
+      format("woff2");
+}
+
+@font-face {
+  font-family: "DiscoverSans";
+  font-weight: 500;
+  font-weight: 600;
+  font-style: normal;
+  src: url(fonts/Discover_Sans_WOFF/DiscoverSans-Semibold.woff) format("woff"),
+    url(fonts/Discover_Sans_WOFF2/DiscoverSans-Semibold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "DiscoverSans";
+  font-weight: 500;
+  font-weight: 600;
+  font-style: italic;
+  src: url(fonts/Discover_Sans_WOFF/DiscoverSans-SemiboldItalic.woff)
+      format("woff"),
+    url(fonts/Discover_Sans_WOFF2/DiscoverSans-SemiboldItalic.woff2)
+      format("woff2");
+}
+
+@font-face {
+  font-family: "DiscoverSans";
+  font-weight: 700;
+  font-style: normal;
+  src: url(fonts/Discover_Sans_WOFF/DiscoverSans-Bold.woff) format("woff"),
+    url(fonts/Discover_Sans_WOFF2/DiscoverSans-Bold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "DiscoverSans";
+  font-weight: 700;
+  font-style: italic;
+  src: url(fonts/Discover_Sans_WOFF/DiscoverSans-BoldItalic.woff) format("woff"),
+    url(fonts/Discover_Sans_WOFF2/DiscoverSans-BoldItalic.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "DiscoverSans";
+  font-weight: 800;
+  font-weight: 900;
+  font-style: normal;
+  src: url(fonts/Discover_Sans_WOFF/DiscoverSans-Extrabold.woff) format("woff"),
+    url(fonts/Discover_Sans_WOFF2/DiscoverSans-Extrabold.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "DiscoverSans";
+  font-weight: 800;
+  font-weight: 900;
+  font-style: italic;
+  src: url(fonts/Discover_Sans_WOFF/DiscoverSans-ExtraboldItalic.woff)
+      format("woff"),
+    url(fonts/Discover_Sans_WOFF2/DiscoverSans-ExtraboldItalic.woff2)
+      format("woff2");
+}
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "DiscoverSans", "Helvetica", "Arial", cursive;
+  line-height: 1.6;
+}
+
+.section {
+  width: 90vw;
+  margin: 5rem auto;
+  max-width: 1170px;
+  align-items: center;
+  justify-content: center;
+}
+
+.underline {
+  width: 20rem;
+  height: 0.1rem;
+  margin-bottom: 1.25rem;
+  background: #23233f;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media screen and (min-width: 992px) {
+  .section {
+    width: 95vw;
+  }
+
+  .underline {
+    width: 45rem;
+  }
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #ec6b29;
+}
+
+a:hover {
+  color: #23233F;
+}
+
+.content {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.content::after,
+.content::before {
+  content: "";
+  height: 5rem;
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  padding-bottom: 0.5em;
+}
+
+.app {
+  margin-bottom: 5rem;
+}
+
+.title {
+  margin-bottom: 4rem;
+  text-align: center;
+}

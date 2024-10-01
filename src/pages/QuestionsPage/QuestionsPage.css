@@ -1,0 +1,58 @@
+.comment-box {
+  color: white;
+  width: 20rem;
+  background-color: #23233f;
+  border-radius: 0.875rem;
+  padding: 1.5rem 1.5rem 2rem 1.5em;
+  position: relative;
+}
+
+#comment-reveal {
+  border-radius: 0.4rem;
+  border: 0.1px solid white;
+  float: right;
+  background-color: #ec6b29;
+  color: white;
+  padding: 0.15rem 0.4rem 0.15rem 0.4rem;
+}
+
+.comment {
+  border-top: 0.125rem solid #404040;
+  padding-top: 1rem;
+}
+
+.comment-body {
+  font-style: italic;
+  margin-top: 0.25rem;
+  margin-left: 0.5rem;
+  font-size: 15px;
+}
+
+.comment-footer {
+  margin-top: 0.5rem;
+  font-size: x-small;
+}
+
+@media screen and (max-width: 300px) {
+  .comment-box {
+    width: 15rem;
+  }
+}
+
+@media screen and (min-width: 450px) {
+  .comment-box {
+    width: 30rem;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .comment-box {
+    width: 50rem;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  .comment-box {
+    width: 45rem;
+  }
+}

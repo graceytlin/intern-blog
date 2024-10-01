@@ -1,0 +1,114 @@
+@font-face {
+  font-family: "DiscoverSans-Bold";
+  src: url("/fonts/DiscoverSans-Bold.eot");
+  src: url("/fonts/DiscoverSans-Bold?#iefix") format("embedded-opentype"),
+    url("/fonts/DiscoverSans-Bold.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-BoldItalic";
+  src: url("/fonts/DiscoverSans-BoldItalic.eot");
+  src: url("/fonts/DiscoverSans-BoldItalic?#iefix") format("embedded-opentype"),
+    url("/fonts/DiscoverSans-BoldItalic.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-BoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-Book";
+  src: url("/fonts/DiscoverSans-Book.eot");
+  src: url("/fonts/DiscoverSans-Book?#iefix") format("embedded-opentype"),
+    url("/fonts/DiscoverSans-Book.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-Book.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-Extrabold";
+  src: url("/fonts/DiscoverSans-Extrabold.eot");
+  src: url("/fonts/DiscoverSans-Extrabold?#iefix") format("embedded-opentype"),
+    url("/fonts/DiscoverSans-Extrabold.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-Extrabold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-ExtraboldItalic";
+  src: url("/fonts/DiscoverSans-ExtraboldItalic.eot");
+  src: url("/fonts/DiscoverSans-ExtraboldItalic?#iefix")
+      format("embedded-opentype"),
+    url("/fonts/DiscoverSans-ExtraboldItalic.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-ExtraboldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-Italic";
+  src: url("/fonts/DiscoverSans-Italic.eot");
+  src: url("/fonts/DiscoverSans-Italic?#iefix") format("embedded-opentype"),
+    url("/fonts/DiscoverSans-Italic.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-Light";
+  src: url("/fonts/DiscoverSans-Light.eot");
+  src: url("/fonts/DiscoverSans-Light?#iefix") format("embedded-opentype"),
+    url("/fonts/DiscoverSans-Light.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-LightItalic";
+  src: url("/fonts/DiscoverSans-LightItalic.eot");
+  src: url("/fonts/DiscoverSans-LightItalic?#iefix") format("embedded-opentype"),
+    url("/fonts/DiscoverSans-LightItalic.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-LightItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-Medium";
+  src: url("/fonts/DiscoverSans-Medium.eot");
+  src: url("/fonts/DiscoverSans-Medium?#iefix") format("embedded-opentype"),
+    url("/fonts/DiscoverSans-Medium.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-MediumItalic";
+  src: url("/fonts/DiscoverSans-MediumItalic.eot");
+  src: url("/fonts/DiscoverSans-MediumItalic?#iefix")
+      format("embedded-opentype"),
+    url("/fonts/DiscoverSans-MediumItalic.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-Semibold";
+  src: url("/fonts/DiscoverSans-Semibold.eot");
+  src: url("/fonts/DiscoverSans-Semibold?#iefix") format("embedded-opentype"),
+    url("/fonts/DiscoverSans-Semibold.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-Semibold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-SemiboldItalic";
+  src: url("/fonts/DiscoverSans-SemiboldItalic.eot");
+  src: url("/fonts/DiscoverSans-SemiboldItalic?#iefix")
+      format("embedded-opentype"),
+    url("/fonts/DiscoverSans-SemiboldItalic.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-SemiboldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-Thin";
+  src: url("/fonts/DiscoverSans-Thin.eot");
+  src: url("/fonts/DiscoverSans-Thin?#iefix") format("embedded-opentype"),
+    url("/fonts/DiscoverSans-Thin.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-Thin.woff") format("woff");
+}
+
+@font-face {
+  font-family: "DiscoverSans-ThinItalic";
+  src: url("/fonts/DiscoverSans-ThinItalic.eot");
+  src: url("/fonts/DiscoverSans-ThinItalic?#iefix") format("embedded-opentype"),
+    url("/fonts/DiscoverSans-ThinItalic.woff2") format("woff2"),
+    url("/fonts/DiscoverSans-ThinItalic.woff") format("woff");
+}

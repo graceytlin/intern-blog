@@ -1,0 +1,22 @@
+.profile {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+h2 {
+  color: #ec6b29;
+}
+
+h4,
+h2 {
+  font-weight: normal;
+}
+
+.person {
+  border-radius: 50%;
+  height: 250px;
+  border-style: solid;
+  border-color: #ec6b29;
+  border-width: 1px;
+}

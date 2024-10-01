@@ -1,0 +1,46 @@
+.logo {
+  width: 250px;
+  height: auto;
+  display: inline-block;
+}
+
+.debug {
+  justify-content: center;
+  outline-style: solid;
+  outline-color: lawngreen;
+}
+
+.col {
+  justify-content: center;
+  text-align: center;
+  border-right: 1px solid #ccc;
+  margin-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+.col:last-of-type  {
+  border: none;
+  margin-left: 0 !important;
+  padding-left: 2rem !important;
+}
+
+.col:first-of-type {
+  margin-right: 0 !important;
+}
+
+.image-container {
+  display: table-cell;
+  height:132px;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.tasks-col-container {
+  width: 276px;
+  height: 160px;
+  justify-content: center;
+  vertical-align: middle;
+  text-align: center;
+  display: table-cell;
+}
