@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/intern-blog/static/css/main.d93d916b.css",
+    "main.js": "/intern-blog/static/js/main.4ac76be4.js",
+    "static/media/DiscoverSans-BoldItalic.woff": "/intern-blog/static/media/DiscoverSans-BoldItalic.4a9ddeffc65df70767c9.woff",
+    "static/media/DiscoverSans-ExtraboldItalic.woff": "/intern-blog/static/media/DiscoverSans-ExtraboldItalic.74f31033a9a785227fad.woff",
+    "static/media/DiscoverSans-LightItalic.woff": "/intern-blog/static/media/DiscoverSans-LightItalic.fecc2cd759d01739ae33.woff",
+    "static/media/DiscoverSans-MediumItalic.woff": "/intern-blog/static/media/DiscoverSans-MediumItalic.8be1628e3d852c8cb557.woff",
+    "static/media/DiscoverSans-Italic.woff": "/intern-blog/static/media/DiscoverSans-Italic.b67da9e04bb5db081485.woff",
+    "static/media/DiscoverSans-SemiboldItalic.woff": "/intern-blog/static/media/DiscoverSans-SemiboldItalic.9141dff966b011d04040.woff",
+    "static/media/DiscoverSans-Bold.woff": "/intern-blog/static/media/DiscoverSans-Bold.051d3a58669d52ed3c40.woff",
+    "static/media/DiscoverSans-Medium.woff": "/intern-blog/static/media/DiscoverSans-Medium.26dde12b4b83c8ee0f75.woff",
+    "static/media/DiscoverSans-Extrabold.woff": "/intern-blog/static/media/DiscoverSans-Extrabold.c4189885fcdd5afdaea0.woff",
+    "static/media/DiscoverSans-Semibold.woff": "/intern-blog/static/media/DiscoverSans-Semibold.d949a3336f53c64b439f.woff",
+    "static/media/DiscoverSans-Light.woff": "/intern-blog/static/media/DiscoverSans-Light.268f89becc9f446b8ea2.woff",
+    "static/media/DiscoverSans-BoldItalic.woff2": "/intern-blog/static/media/DiscoverSans-BoldItalic.ac346ee990d32cbe3f6b.woff2",
+    "static/media/DiscoverSans-ExtraboldItalic.woff2": "/intern-blog/static/media/DiscoverSans-ExtraboldItalic.69704b391dbcd52953ac.woff2",
+    "static/media/DiscoverSans-LightItalic.woff2": "/intern-blog/static/media/DiscoverSans-LightItalic.3fa45eebec19935f857b.woff2",
+    "static/media/DiscoverSans-MediumItalic.woff2": "/intern-blog/static/media/DiscoverSans-MediumItalic.d4e60d4712e3f84849fc.woff2",
+    "static/media/DiscoverSans-Italic.woff2": "/intern-blog/static/media/DiscoverSans-Italic.a4867b9a53a728c5c4d0.woff2",
+    "static/media/DiscoverSans-SemiboldItalic.woff2": "/intern-blog/static/media/DiscoverSans-SemiboldItalic.7161cd9da57a6a03ae33.woff2",
+    "static/media/DiscoverSans-Bold.woff2": "/intern-blog/static/media/DiscoverSans-Bold.a2e0cdf51cf774d8fe10.woff2",
+    "static/media/DiscoverSans-Extrabold.woff2": "/intern-blog/static/media/DiscoverSans-Extrabold.079925816be23a87b2bd.woff2",
+    "static/media/DiscoverSans-Medium.woff2": "/intern-blog/static/media/DiscoverSans-Medium.ae7a7f50dcd06e650243.woff2",
+    "static/media/DiscoverSans-Semibold.woff2": "/intern-blog/static/media/DiscoverSans-Semibold.89ae07fa92e7f1c7cf4a.woff2",
+    "static/media/DiscoverSans-Light.woff2": "/intern-blog/static/media/DiscoverSans-Light.33e758064ab3ce8e833b.woff2",
+    "static/media/bee.jpg": "/intern-blog/static/media/bee.518fa81bd74df55d447d.jpg",
+    "static/media/placeholder.png": "/intern-blog/static/media/placeholder.e11b098356b34965a3de.png",
+    "static/media/cfg.png": "/intern-blog/static/media/cfg.b77a75ef3890915800da.png",
+    "static/media/surrey.png": "/intern-blog/static/media/surrey.bf5480c666d701c7cd73.png",
+    "index.html": "/intern-blog/index.html",
+    "main.d93d916b.css.map": "/intern-blog/static/css/main.d93d916b.css.map",
+    "main.4ac76be4.js.map": "/intern-blog/static/js/main.4ac76be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d93d916b.css",
+    "static/js/main.4ac76be4.js"
+  ]
+}
