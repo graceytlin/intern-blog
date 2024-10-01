@@ -9,7 +9,7 @@ To run this web app locally, you must:
 
 
 
-Previously, this website a question submission page utilising Ably API and emailjs, which can be seen in ```pages/QuestionsPage```
+Previously, this website featured a question submission page utilising Ably API and emailjs, which can be seen in ```pages/QuestionsPage```
 1) Create a .env file in the root folder
 2) Add your Ably API key by adding the line<br/>
 
