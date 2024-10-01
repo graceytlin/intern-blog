@@ -2,7 +2,7 @@
   "name": "presentation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://graceytlin.github.io/discover-presentation",
+  "homepage": "http://graceytlin.github.io/intern-blog",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
